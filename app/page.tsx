@@ -95,29 +95,11 @@ export default function HomePage() {
       <section className="border-t border-slate-200 bg-white dark:border-slate-700 dark:bg-slate-800/30">
         <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
           <h2 className="text-center text-2xl font-bold text-slate-900 dark:text-white sm:text-3xl">
-            Our work
+            App Portfolio
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-center text-slate-600 dark:text-slate-300">
-            Examples of what we’ve built.
+            Coming soon.
           </p>
-          <div className="mt-12 flex flex-wrap items-center justify-center gap-6 sm:gap-10">
-            <a
-              href="https://devilswerk.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-xl border border-slate-200 bg-slate-50 px-8 py-4 text-lg font-semibold text-slate-900 shadow-sm transition hover:border-primary-300 hover:bg-primary-50 hover:text-primary-700 dark:border-slate-600 dark:bg-slate-800 dark:text-white dark:hover:border-primary-600 dark:hover:bg-primary-900/30 dark:hover:text-primary-300"
-            >
-              Devilswerk.com →
-            </a>
-            <a
-              href="https://screensloth.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-xl border border-slate-200 bg-slate-50 px-8 py-4 text-lg font-semibold text-slate-900 shadow-sm transition hover:border-primary-300 hover:bg-primary-50 hover:text-primary-700 dark:border-slate-600 dark:bg-slate-800 dark:text-white dark:hover:border-primary-600 dark:hover:bg-primary-900/30 dark:hover:text-primary-300"
-            >
-              Screensloth.com →
-            </a>
-          </div>
         </div>
       </section>
 

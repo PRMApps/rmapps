@@ -31,11 +31,8 @@ export default function TermsPage() {
                 agreement between you and RMApps (&quot;Company,&quot; &quot;we,&quot;
                 &quot;us,&quot; or &quot;our&quot;) governing your access to and use of our
                 website, mobile applications, and related services (collectively,
-                the &quot;Service&quot;). Our Service includes, but is not limited to: (a)
-                the ScreenSloth mobile application (a screen time and screen
-                blocker app), (b) the Devilswerk website (devilswerk.com) and any
-                tire sales or related e-commerce services, and (c) any other
-                applications, websites, or services we operate.
+                the &quot;Service&quot;). Our Service includes our website and any mobile
+                applications, e-commerce sites, and related services we operate.
               </p>
               <p className="mt-2">
                 By accessing or using the Service, you agree to be bound by these
@@ -72,9 +69,7 @@ export default function TermsPage() {
                 <li>Use the Service in any way that could harm, disable, or
                   impair the Service or any user</li>
                 <li>Attempt to circumvent, disable, or interfere with
-                  security-related or access-control features of the Service
-                  (including, in the case of ScreenSloth, any screen-blocking or
-                  monitoring features)</li>
+                  security-related or access-control features of the Service</li>
                 <li>Use the Service to transmit malware, spam, or unauthorized
                   content</li>
                 <li>Copy, modify, distribute, or create derivative works of the
@@ -82,20 +77,6 @@ export default function TermsPage() {
                 <li>Use automated means (e.g., bots, scrapers) to access the
                   Service except as we expressly permit</li>
               </ul>
-              <p className="mt-3">
-                For ScreenSloth: The app is intended to help you manage your
-                own device usage. You are responsible for how you use the app
-                and for any impact on your device or data. We do not guarantee
-                that the app will work with all devices, operating system
-                versions, or third-party apps.
-              </p>
-              <p className="mt-2">
-                For Devilswerk: Product listings, pricing, and availability are
-                subject to change. We strive for accuracy but do not warrant
-                that product descriptions, images, or other content are
-                error-free. Purchases are subject to our shipping, return, and
-                refund policies as stated at the time of purchase.
-              </p>
             </div>
 
             <div>
@@ -115,11 +96,11 @@ export default function TermsPage() {
 
             <div>
               <h2 className="text-xl font-bold text-slate-900 dark:text-white">
-                5. Purchases, Payment, and Refunds (Devilswerk and Paid Services)
+                5. Purchases, Payment, and Refunds
               </h2>
               <p className="mt-3">
-                Where the Service allows purchases (e.g., tires or other
-                products on Devilswerk, or paid features in our apps), you agree
+                Where the Service allows purchases (e.g., products,
+                subscriptions, or paid features), you agree
                 to provide accurate payment and shipping information. All
                 prices are as displayed at the time of order and are subject to
                 applicable taxes and shipping costs. We reserve the right to
@@ -166,20 +147,6 @@ export default function TermsPage() {
                 warrant the accuracy, completeness, or usefulness of any
                 content on the Service. Any reliance you place on the Service or
                 its content is at your sole risk.
-              </p>
-              <p className="mt-2">
-                ScreenSloth is a tool to help you manage screen time. It is not
-                a substitute for professional advice (e.g., medical, mental
-                health, or educational). Results and effectiveness may vary. Use
-                of the app is at your own risk.
-              </p>
-              <p className="mt-2">
-                Devilswerk and any product information are for general
-                informational and e-commerce purposes. We do not guarantee the
-                accuracy of product specifications, availability, or suitability
-                for your vehicle or use. You are responsible for verifying
-                compatibility and following any safety or installation
-                guidelines.
               </p>
               <p className="mt-2">
                 The Service may contain links to third-party websites or
@@ -338,25 +305,7 @@ export default function TermsPage() {
                 >
                   About
                 </Link>{' '}
-                page. Our products include{' '}
-                <a
-                  href="https://screensloth.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="font-medium text-primary-600 hover:underline dark:text-primary-400"
-                >
-                  ScreenSloth
-                </a>{' '}
-                and{' '}
-                <a
-                  href="https://devilswerk.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="font-medium text-primary-600 hover:underline dark:text-primary-400"
-                >
-                  Devilswerk
-                </a>
-                .
+                page.
               </p>
             </div>
           </div>
